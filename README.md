@@ -8,8 +8,8 @@
     2. Crime_Data_Analysis.ipynb
     3. Prediction.ipynb
 * Webpage: For the webpage using streamlit, run the command: streamlit run app.py
-    ![alt text](image.png)
+    ![alt text](images/webpage_img.png)
 * Power BI report:The Power BI dashboards helps in exploring the analysis results.
-    ![alt text](powerBI_dashboard_img-1.png)
+    ![alt text](images/powerBI_dashboard_img.png)
 
      
